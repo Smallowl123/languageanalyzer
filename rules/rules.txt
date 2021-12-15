@@ -1,0 +1,5 @@
+S->aaCFD
+S->aSB
+A->a
+A->Ba
+B->ε

@@ -1,0 +1,3 @@
+S->aQb
+S->accb
+Q->cSc

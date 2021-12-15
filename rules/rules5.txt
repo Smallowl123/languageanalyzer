@@ -1,0 +1,10 @@
+S->@A
+S->@AL
+L->mL
+L->B⟂L
+L->m
+L->B⟂
+A->n
+A->m
+B->l
+B->m
